@@ -10,13 +10,12 @@ The Text to Speech service understands text and natural language to generate syn
 ![screenshot2](https://github.com/Isa41/TextToSpeech/blob/master/Screenshot2.png)<br/><br/>
 ![screenshot3](https://github.com/Isa41/TextToSpeech/blob/master/Screenshot3.png)<br/><br/><br/>
 
-This project is under the development process<br/><br/><br/>
 
-I made a project that speak to text.<br/><br/><br/>
-When you write something input field then click pay button, computer read your text.<br/><br/><br/>
-I used **IBM Watson TTs Library**.<br/><br/><br/>
-I used TKinter user interface Library<br/><br/><br/>
+I made a project that speak to text.<br/><br/>
+When you write something input field then click pay button, computer read your text.<br/><br/>
+I used **IBM Watson TTs Library**.<br/><br/>
+I used TKinter user interface Library<br/><br/>
 
-
+*This project is under the development process*
 
 
